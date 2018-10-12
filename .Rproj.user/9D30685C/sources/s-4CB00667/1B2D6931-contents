@@ -1,4 +1,0 @@
-> library(ggplot2)
-> cars <- mpg[c("year", "hwy", "class")]
-> # compress data file
-  > save(cars, file = "data/cars.rda", compress="xz")
